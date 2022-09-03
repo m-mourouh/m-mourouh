@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
-![badge](https://img.shields.io/github/stars/m-mourouh?style=social)
+![badge](https://img.shields.io/github/stars/m-mourouh)
+
 
 - 🔭 I’m currently working on **personal portfolio website**
 
