@@ -3,10 +3,7 @@
 
 ![coding](https://user-images.githubusercontent.com/60442896/188282230-08a9b420-dd0d-4abe-876b-b6fec6d91750.gif)
 
-<p>
-  ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
-  ![so](https://img.shields.io/github/stars/m-mourouh?style=social)
-</p>
+<p> ![badge](https://img.shields.io/github/followers/m-mourouh?style=social) ![so](https://img.shields.io/github/stars/m-mourouh?style=social)</p>
 
 - 🔭 I’m currently working on **personal portfolio website**
 
