@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mourouh</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Banner"/>
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Banner" width="400"/>
 
 
 - 🔭 I’m currently working on **personal portfolio website**
