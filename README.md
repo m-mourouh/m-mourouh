@@ -5,7 +5,7 @@
 
 <p>
   ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
-  ![badge](https://img.shields.io/github/stars/m-mourouh?style=social)
+  ![so](https://img.shields.io/github/stars/m-mourouh?style=social)
 </p>
 
 - 🔭 I’m currently working on **personal portfolio website**
