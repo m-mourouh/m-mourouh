@@ -7,15 +7,16 @@
 
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
-
-<img width="250" src="https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif"/>- 🔭 I’m currently working on **personal portfolio website**
+<div display="flex">
+<img width="250" src="https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif"/>
+- 🔭 I’m currently working on **personal portfolio website**
 
 - 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **Web development, Programming**
 
 - 📫 How to reach me **mohamed.mourouh.job@gmail.com**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m-mourouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-mourouh" height="30" width="40" /></a>
