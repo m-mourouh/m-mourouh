@@ -10,7 +10,7 @@
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif"/> 
 
-- 🔭 I’m currently working on **personal portfolio website**
+- 🔭 I’m currently working on **my personal portfolio website**
 
 - 🌱 I’m currently learning **Express.js**
 
