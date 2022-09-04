@@ -4,12 +4,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mourouh</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-<br>
 
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 
-
+![giphy](https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif)
 - 🔭 I’m currently working on **personal portfolio website**
 
 - 🌱 I’m currently learning **Express.js**
