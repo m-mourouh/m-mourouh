@@ -9,6 +9,7 @@
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 <div display="flex">
  <span>
+ 
 - 🔭 I’m currently working on **personal portfolio website**
 
 - 🌱 I’m currently learning **Express.js**
@@ -16,7 +17,7 @@
 - 💬 Ask me about **Web development, Programming**
 
 - 📫 How to reach me **mohamed.mourouh.job@gmail.com**
-<img style='border-radius:20px;overflow:hidden' align="right" width="400" src="https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif"/>
+<img  border-radius="20px" align="right" width="400" src="https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif"/>
    </span>
 </div>
 <h3 align="left">Connect with me:</h3>
