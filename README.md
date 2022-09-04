@@ -9,7 +9,7 @@
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 <div display="flex">
 <img align="left" width="250" src="https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif"/>
- <span align="right">
+ <span>
 - 🔭 I’m currently working on **personal portfolio website**
 
 - 🌱 I’m currently learning **Express.js**
