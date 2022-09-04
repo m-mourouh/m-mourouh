@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/60442896/188291702-8d5976d1-1c75-4b61-8603-09b1b8f82cd0.svg)]
+![MasterHead](https://user-images.githubusercontent.com/60442896/188291702-8d5976d1-1c75-4b61-8603-09b1b8f82cd0.svg)
 
 <h1 align="center">Hi 👋, I'm Mohamed Mourouh</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
