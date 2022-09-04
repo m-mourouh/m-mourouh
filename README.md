@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mourouh</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
+<br>
+
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 
 
 - 🔭 I’m currently working on **personal portfolio website**
 
-- 🌱 I’m currently learning **express.js**
+- 🌱 I’m currently learning **Express.js**
 
-- 💬 Ask me about
+- 💬 Ask me about **Web development, Programming**
 
 - 📫 How to reach me **mohamed.mourouh.job@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m-mourouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-mourouh" height="30" width="40" /></a>
+<a href="https://fb.com/100009103569831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100009103569831" height="30" width="40" /></a>
+<a href="https://instagram.com/mmourouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmourouh" height="30" width="40" /></a>
+<a href="https://twitter.com/mmourouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmourouh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/deltatycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deltatycodes" height="30" width="40" /></a>
 </p>
 
