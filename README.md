@@ -8,14 +8,14 @@
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 
- 
+<img align="left" width="400" src="https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif"/> 
 - 🔭 I’m currently working on **personal portfolio website**
 
 - 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **Web development, Programming**
 
-- 📫 How to reach me **mohamed.mourouh.job@gmail.com**<img align="left" width="400" src="https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif"/>
+- 📫 How to reach me **mohamed.mourouh.job@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
