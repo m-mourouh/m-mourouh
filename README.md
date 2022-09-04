@@ -1,5 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/60442896/188291733-031e6838-1b9e-49f1-8f90-07da9e930a4f.jpg)
-
+![MasterHead](https://user-images.githubusercontent.com/60442896/188322699-92964d22-cad4-4fad-adaa-8419acf1d24a.png)
 
 <h1 align="center">Hi 👋, I'm Mohamed Mourouh</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
