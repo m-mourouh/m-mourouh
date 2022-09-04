@@ -8,7 +8,7 @@
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/60442896/188321177-13d4163f-1318-468b-bc78-dcec29522d25.gif"/> 
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/60442896/188322588-c2ed33b8-3227-4e6d-90fc-d42b37566a43.gif"/> 
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
