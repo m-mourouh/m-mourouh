@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **NuxtJS**
 
 - 💬 Ask me about **Web development, Programming**
 
