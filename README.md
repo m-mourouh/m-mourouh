@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **some awesome projects**
 
-- 🌱 I’m currently learning **an awesome technology**
+- 🌱 I’m currently learning **technologies**
 
 - 💬 Ask me about **Web development, Programming**
 
