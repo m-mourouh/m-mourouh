@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/60442896/188322699-92964d22-cad4-4fad-adaa-8419acf1d24a.png)
 
 <h1 align="center">Hi 👋, I'm Mohamed Mourouh</h1>
-<h3 align="center">A passionate web developer from Morocco</h3>
+<h3 align="center">A software developer from Morocco</h3>
 
 
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
