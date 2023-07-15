@@ -9,7 +9,7 @@
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/60442896/188322588-c2ed33b8-3227-4e6d-90fc-d42b37566a43.gif"/> 
 
-- 🔭 I’m currently working on **my personal portfolio website**
+- 🔭 I’m currently working on **some awesome projects**
 
 - 🌱 I’m currently learning **an awesome technology**
 
