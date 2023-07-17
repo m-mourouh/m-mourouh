@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/m-mourouh/m-mourouh/assets/60442896/e53bed41-1bed-47df-80e0-1a3fb1e28ed0)
+![MasterHead](https://github.com/m-mourouh/m-mourouh/assets/60442896/fed8e9fc-4fe0-4e76-85a8-6e1129d4702d)
 
 <h1 align="center">Hi 👋, I'm Mohamed Mourouh</h1>
 <h3 align="center">A software developer from Morocco</h3>
