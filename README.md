@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Mourouh</h1>
-<h3 align="center">A software enginner from Morocco</h3>
+<h3 align="center">A software engineer from Morocco</h3>
 
 
 ![badge](https://img.shields.io/github/followers/m-mourouh?style=social)
