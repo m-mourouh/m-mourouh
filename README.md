@@ -17,8 +17,7 @@
 - 💬 Ask me about **Web development, Programming**
 
 - 📫 How to reach me **mmourouh.job@gmail.com**
-<br>
-  <p><a href="https://www.buymeacoffee.com/mmourouh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mmourouh" /></a></p>
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
