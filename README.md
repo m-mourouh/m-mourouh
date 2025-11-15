@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Web development, Programming**
 
-- 📫 How to reach me **mmourouh.job@gmail.com**
+- 📫 How to reach me **contact@mmourouh.dev**
 
 <br>
 <h3 align="left">Connect with me:</h3>
